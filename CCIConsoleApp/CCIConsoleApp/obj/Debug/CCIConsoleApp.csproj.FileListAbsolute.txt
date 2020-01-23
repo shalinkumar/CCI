@@ -1,0 +1,7 @@
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\bin\Debug\CCIConsoleApp.exe.config
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\bin\Debug\CCIConsoleApp.exe
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\bin\Debug\CCIConsoleApp.pdb
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\obj\Debug\CCIConsoleApp.csprojAssemblyReference.cache
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\obj\Debug\CCIConsoleApp.csproj.CoreCompileInputs.cache
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\obj\Debug\CCIConsoleApp.exe
+E:\Shalin\CCI\CCIConsoleApp\CCIConsoleApp\obj\Debug\CCIConsoleApp.pdb
